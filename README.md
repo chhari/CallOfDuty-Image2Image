@@ -10,5 +10,5 @@ demonstrate the effectiveness of our model on synthesizing
 photos from labels, maps and reconstructing objects
 from edge maps
 
-![Alt text](https://photos.google.com/photo/AF1QipOQLshZJQ1PeqtbfgbrihSh_-ZHPNjFWcywQMmQ "Optional title")
+![Alt text](https://s3.ap-south-1.amazonaws.com/hariimages/cod/Epoch_(101)_(160of440).jpg "Optional title")
 
